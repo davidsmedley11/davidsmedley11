@@ -4,17 +4,25 @@
   <img src="https://roadmap.sh/card/tall/6862cb831ed6bc62a2a9f2ce?variant=dark" alt="Backend Roadmap Card" />
 </p>
 
-<!--
-**davidsmedley11/davidsmedley11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently self-studying to become a **Backend Developer**, focusing on solid fundamentals, best practices, and modern technologies in the backend world.
 
-Here are some ideas to get you started:
+I’m following a structured roadmap that keeps me on track and helps me learn efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Learning
+
+- **Programming Language:** Javascript, Go, Backend Developing
+(📌 See the full roadmap on the card above!)
+
+---
+
+### 📈 Current Goals
+
+- Build real-world backend projects  
+- Master API design and database schemas  
+- Learn cloud deployment (Heroku, Render, or AWS)  
+- Contribute to open-source
+
+---
+
