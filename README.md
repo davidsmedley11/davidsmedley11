@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm a Backend Developer in Progress!</h1>
+
+<p align="center">
+  <img src="https://roadmap.sh/card/tall/6862cb831ed6bc62a2a9f2ce?variant=dark" alt="Backend Roadmap Card" />
+</p>
 
 <!--
 **davidsmedley11/davidsmedley11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
