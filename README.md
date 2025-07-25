@@ -13,6 +13,7 @@ I’m following a structured roadmap that keeps me on track and helps me learn e
 ### 🚀 What I'm Learning
 
 - **Programming Language:** Javascript, Go, Backend Developing
+- **Bachelor of Science:** Physics and Mathematics - Open University
 (📌 See the full roadmap on the card above!)
 
 ---
